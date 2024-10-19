@@ -63,7 +63,7 @@ export default function Home() {
       </header>
 
       <main className="flex flex-col items-center bg-gray-800 p-10 rounded-2xl shadow-2xl transform transition duration-500 hover:scale-105">
-        <h1 className="text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600 drop-shadow-lg">
+        <h1 className="text-5xl text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600 drop-shadow-lg">
           Kalkulator Sederhana
         </h1>
 
